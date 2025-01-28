@@ -1,4 +1,4 @@
 payment-react-ui:
   pods:
     image:
-      tag: "v0.0.1"
+      tag: "main-07c761b"
